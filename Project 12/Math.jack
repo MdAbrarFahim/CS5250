@@ -1,0 +1,23 @@
+class Math {
+
+    function void init() {
+    }
+
+    function int abs(int x) {
+    }
+
+        function int multiply(int x, int y) {
+    }
+
+        function int divide(int x, int y) {
+    }
+
+    function int sqrt(int x) {
+    }
+
+    function int max(int a, int b) {
+    }
+
+    function int min(int a, int b) {
+    }
+}

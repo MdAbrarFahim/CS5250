@@ -1,0 +1,14 @@
+class Sys {
+
+    function void init() {
+    }
+
+    function void halt() {
+    }
+
+    function void wait(int duration) {
+    }
+
+    function void error(int errorCode) {
+    }
+}
